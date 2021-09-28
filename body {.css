@@ -1,0 +1,47 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#wrapper {
+    margin: 20px auto 0 auto;
+    width: 80%;
+}
+
+/*
+Please add/edit styles below this comment
+Get color codes here: https://flatuicolors.com/palette/defo
+*/
+
+#header {
+    background-color: #f1c40f;
+}
+
+#content {
+    background-color: #2ecc71;
+}
+
+.post {
+    background-color: #3498db;
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+#footer {
+    background-color: #9b59b6;
+}
+
+#firstTitle {
+    color: #2980b9;
+}
+
+.biggerTitle {
+    font-size: 25px;
+}
+
+.paddingAndMargin {
+    margin: 20px 0 20px 0;
+    padding: 20px;
+    border-radius: 10px;
+}
